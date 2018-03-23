@@ -59,7 +59,7 @@
                 <executions>
                     <execution>
                         <id>send surefire notification</id>
-                        <phase>site</phase>
+                        <phase>test</phase>
                         <goals>
                             <goal>surefire-mail</goal>
                         </goals>
