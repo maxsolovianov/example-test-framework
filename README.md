@@ -10,4 +10,4 @@ latest version of chromedriver or geckodriver binaries located to \src\test\reso
 
 # How to run
 
-mvn clean test
+mvn clean test site
